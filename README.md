@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi 👋, I'm Shakil  
+An Enthusiastic Backend-focused Web Developer from Bangladesh 🇧🇩  
 
-<!--
-**shakil-islam-nahid/shakil-islam-nahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me  
+- 🌱 I’m currently learning Backend Development  
+- 🐍 Focused on Python, Django, REST API & Databases  
+- 💻 I love building clean and efficient backend systems  
+- 🎯 Goal: Create meaningful projects that help people in real life  
+- 🚀 Always exploring new technologies and improving my skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⭐ Thank you for visiting my profile!  
